@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'I have 5 years of experience coaching clients and cannot wait to help achieve your goals ',
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:' Fitclub was the best decision I ever made, I chose the pro plan and the private coaches and free merchandise motivated me to achieve my goals',
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
