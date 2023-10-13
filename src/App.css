@@ -43,3 +43,13 @@
 .btn:hover{
   cursor: pointer;
 }
+
+.blur{
+  background: rgba(220, 43, 40, 0.6);
+  position:absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+  z-index: -9;
+
+
+}
