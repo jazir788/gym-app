@@ -53,7 +53,7 @@ const Hero = () => {
         </div>
         <div>
             <span><NumberCounter end={978} start={900} delay='4' postFix = "+"/></span>
-            <span>memnbers joined</span>
+            <span>members joined</span>
         </div>
         <div>
             <span><NumberCounter end={50} start={35} delay='4' postFix = "+"/></span>
